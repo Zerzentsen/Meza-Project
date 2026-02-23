@@ -1,0 +1,4 @@
+# Dépendances Python du projet Meza-Project
+# Ajouter ici les packages nécessaires aux scripts (un par ligne)
+requests>=2.31.0
+python-dotenv>=1.0.0
