@@ -1,0 +1,3 @@
+# Dépendances Python du projet Meza-Project
+# Ajouter ici les packages nécessaires aux scripts (un par ligne)
+# Exemple : requests==2.31.0
